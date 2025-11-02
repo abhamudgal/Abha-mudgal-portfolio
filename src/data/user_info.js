@@ -61,7 +61,7 @@ const info = {
   // ============ CERTIFICATES ============
   certificates: [
     {
-      title: "Project Development Using Java",
+      title: "Project Development Using Javascript",
       description: "Udemy (2022)",
       link: "https://drive.google.com/file/d/1FTMU9FyZS9i0X6vI0Zs5-0QAgGDANWmf/view?usp=sharing",
     },
