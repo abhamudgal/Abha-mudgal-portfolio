@@ -29,7 +29,7 @@ const info = {
       title: "Online Book Store",
       description:
         "Fully functional web app to view/add/update/delete books. Built reusable React components, integrated a Node-based REST API, and made the UI responsive for laptop, tablet, and mobile.",
-      technologies: "HTML, CSS, JavaScript, React, Node.js",
+      technologies: "HTML, CSS, JavaScript, React, Node.js,MongoDB",
     },
   ],
 
