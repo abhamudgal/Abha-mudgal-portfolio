@@ -61,14 +61,14 @@ const info = {
   // ============ CERTIFICATES ============
   certificates: [
     {
-      title: "Project Development Using Javascript",
-      description: "Udemy (2022)",
-      link: "https://drive.google.com/file/d/1FTMU9FyZS9i0X6vI0Zs5-0QAgGDANWmf/view?usp=sharing",
+      title: "Project Development Using React",
+      description: "Udemy (2025)",
+      link: "https://drive.google.com/file/d/1fXzhFkctMfNUIjC4lxvnIkmzn4x0XKMN/view?usp=drive_link",
     },
     {
       title: "Programming Foundations with JavaScript, HTML and CSS",
-      description: "Duke University · Coursera (2022)",
-      link: "https://drive.google.com/file/d/1bmRHxoYvBlWUVOqTnWZALfB2hn9UlosH/view?usp=sharing",
+      description: "Udemy (2025)",
+      link: "https://drive.google.com/file/d/1bmRHxoYvBlWUVOqTnWZALfB2hn9UlosH/https://drive.google.com/file/d/13peSWTxV_izFAHVXtqS_rVQKNn1uTYer/view?usp=sharing?usp=sharing",
     },
   ],
 
